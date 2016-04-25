@@ -1,0 +1,9 @@
+Date: dd/mm/yyyy	Time: HH:MM AM/PM 	Order: ##-####-#	Item: ##-##	Quantity: (1-99)	Address: 123 Fake Street 
+ POSTAL, STATE	
+
+Date: 12/11/1991	Time: 12:08 AM	Order: 55-8888-5	Item: 12-98	Quantity: 21	Address: 123 Brock Lane	
+L9N8N8, ON	
+
+Date: 16/08/1992	Time: 8:55 PM	Order: 88-8888-5	Item: 69-92	Quantity: 08	Address: 1288 Japan	
+P-9999 ON	
+
